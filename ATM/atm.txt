@@ -1,0 +1,15 @@
+Name is : Muhammad ahsan
+Widthraw amount is : 1500
+Now Current amount is : 28500
+====================================
+====================================
+Name is : Muhammad AHSAN
+Deposited amount is : 1700
+Now Current Balance is : 31700
+====================================
+====================================
+Name is : MuHAMMAD ALI
+Widthraw amount is : 12345
+Now Current amount is : 17655
+====================================
+====================================
