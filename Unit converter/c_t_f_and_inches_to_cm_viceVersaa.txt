@@ -1,0 +1,16 @@
+==Coversion of Celsius to Fahrenheit==
+The temperature in Fahrenheit is : 53.6
+====================================
+
+==Coversion of Fahrenheit to celsius==
+The temperature in celsius is : 1.9749999999999999
+====================================
+
+==Coversion of Inches to centimeter==
+The number in centimeter is: 30.48
+====================================
+
+==Coversion of Centimeter to Inches==
+The number in centimeter is: 12.003156088
+====================================
+
